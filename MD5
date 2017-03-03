@@ -1,0 +1,17 @@
+f967491db4ddef428e25c3117a635553 *DESCRIPTION
+a353b5dee7451068f45ba9a8b569d890 *NAMESPACE
+7774d526706f60fb903ac9671c2c96e5 *R/classes.R
+254dfded0ab7c8ecf0c57eec13c3fe34 *R/disco-data.R
+fa62d9b9989e5a01abf1357878e1c83e *R/disco.R
+94072579382805ad51c1f8c76035321f *R/orthologs.R
+dc0a64cc0f664bb582415ca6eb1c79c3 *data/datalist
+7e601a2510904c990f85afcb2b33d71c *data/orthologs.rda
+796501ff488b7d51c0360ee5a2af26ce *man/corOrt.Rd
+e443b12d324619a0e2ac075a6828ec04 *man/disco.score.Rd
+f11c9800566354fb64b1d0f92629d671 *man/makeMatchedOrtholog.Rd
+4aeaed5f26c802b5546ace17a35c3818 *man/makeSummary.Rd
+98653a75d2d7aaef352da1ba43675ca2 *man/matchedOrtholog-class.Rd
+480f39106c95d76c9661faba6feefe6b *man/modCor.Rd
+c99ba7c9d8231844cda2263c824d9780 *man/orthologs.Rd
+ad98674322e12ef9d706d8bc7414ab06 *man/percentGenes.Rd
+78855068347bd9c2a831ac4f09698320 *man/plotDisco.Rd
